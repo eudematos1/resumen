@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#phyton",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -146,7 +147,7 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "56f234bacf75da82",
+  "active": "70eddf60529ae9dd",
   "lastOpenFiles": [
     "Pasted image 20230727105910.png",
     "yo.png",
