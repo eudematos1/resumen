@@ -62,3 +62,9 @@ Pruebas
 
 ver los errores con el lenguaje phyton
 ![[phyton.png]]
+
+
+<h1>Panda </h1>
+Se reviso un poco de lenguaje de panda
+![[panaaaaa.png]]
+
