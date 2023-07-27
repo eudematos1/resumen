@@ -68,3 +68,7 @@ ver los errores con el lenguaje phyton
 Se reviso un poco de lenguaje de panda
 ![[panaaaaa.png]]
 
+Ejercicio
+
+snake
+![[snake.png]]![[yo.png]]
