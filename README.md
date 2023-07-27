@@ -60,7 +60,7 @@ Jupyter es una plataforma de código abierto que permite la creación e interacc
 
 Pruebas
 
-ver los errores con el lenguaje phyton
+ver los errores que tiene este codigo en partes con el lenguaje phyton y haciendo las pruebas en google colab
 ![[phyton.png]]
 
 
