@@ -1,0 +1,157 @@
+{
+  "main": {
+    "id": "0628d80bf0404e85",
+    "type": "split",
+    "children": [
+      {
+        "id": "70ed9d659886a398",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "56f234bacf75da82",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1cca9b79e3a28c2d",
+    "type": "split",
+    "children": [
+      {
+        "id": "ea2c66fae75dfc54",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bdbdb3c2443dd028",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "70eddf60529ae9dd",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b0a5848f382509ea",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "3f944bb0cb59ada8",
+    "type": "split",
+    "children": [
+      {
+        "id": "dabe9832846125ec",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7330b84181333077",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "README.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "851543e3efc50b58",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "README.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d0e63ba6a2cfd228",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "27666d9081d95077",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "README.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir quick switcher": false,
+      "graph:Abrir vista de gráfico": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false
+    }
+  },
+  "active": "56f234bacf75da82",
+  "lastOpenFiles": [
+    "phyton.png",
+    "machine_learning_build.jpg",
+    "5bfb6e8d-a17b-4836-afd0-95033a420062.jpg",
+    "5bfb6e8d-a17b-4836-afd0-95033a420062.jpg.md",
+    "README.md"
+  ]
+}
